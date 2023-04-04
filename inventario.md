@@ -6,3 +6,4 @@ Elettronica Padovana
 componenti
 periferiche
 - tastiere.md
+- mouse.md
